@@ -1,8 +1,6 @@
 #ifndef __BUTTON_H__
 #	define __BUTTON_H__
 
-#	include "EButton.h"
-
 /// <summary>
 /// Button class
 /// </summary>
